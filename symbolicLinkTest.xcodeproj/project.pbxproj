@@ -15,6 +15,7 @@
 		520826221F446F83007A5CC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 520826201F446F83007A5CC5 /* LaunchScreen.storyboard */; };
 		5208262D1F446F84007A5CC5 /* symbolicLinkTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5208262C1F446F84007A5CC5 /* symbolicLinkTestTests.m */; };
 		520826381F446F84007A5CC5 /* symbolicLinkTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 520826371F446F84007A5CC5 /* symbolicLinkTestUITests.m */; };
+		520826471F447706007A5CC5 /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 520826461F447706007A5CC5 /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		520826331F446F84007A5CC5 /* symbolicLinkTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = symbolicLinkTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		520826371F446F84007A5CC5 /* symbolicLinkTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = symbolicLinkTestUITests.m; sourceTree = "<group>"; };
 		520826391F446F84007A5CC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		520826461F447706007A5CC5 /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = test.mp4; path = symbolicLinkTest/test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		520826061F446F83007A5CC5 = {
 			isa = PBXGroup;
 			children = (
+				520826461F447706007A5CC5 /* test.mp4 */,
 				520826111F446F83007A5CC5 /* symbolicLinkTest */,
 				5208262B1F446F84007A5CC5 /* symbolicLinkTestTests */,
 				520826361F446F84007A5CC5 /* symbolicLinkTestUITests */,
@@ -252,6 +255,7 @@
 				520826221F446F83007A5CC5 /* LaunchScreen.storyboard in Resources */,
 				5208261F1F446F83007A5CC5 /* Assets.xcassets in Resources */,
 				5208261D1F446F83007A5CC5 /* Main.storyboard in Resources */,
+				520826471F447706007A5CC5 /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
